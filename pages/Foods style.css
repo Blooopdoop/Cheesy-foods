@@ -1,0 +1,33 @@
+body {
+	background-color: Cornsilk;
+	color:#000;
+	margin: 0;
+	font-family: Garamond, serif;
+}
+nav{
+	overflow: hidden;
+	background-color: #000;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.pages{
+	text-decoration:none;
+	float:right;
+	margin-right:35px;
+	color:darkorange;
+	background-color:black;
+	font-size: 35px;
+	text-shadow: 1px 1px 1px Cornsilk;
+}
+.cheeselogo	{
+	height:90px;
+	width:105px;
+	margin-left:10px;
+}
+.current	{
+	color: red;
+}
+.bgImage	{
+	width:100%;
+	height:700px;
+}

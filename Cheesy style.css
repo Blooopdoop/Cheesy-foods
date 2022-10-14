@@ -1,0 +1,84 @@
+
+body {
+	background-color: Cornsilk;
+	color:#000;
+	margin: 0;
+	font-family: Garamond, serif;
+}
+nav{
+	overflow: hidden;
+	background-color: #000;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.pages{
+	text-decoration:none;
+	float:right;
+	margin-right:35px;
+	color:darkorange;
+	background-color:black;
+	font-size: 35px;
+	text-shadow: 1px 1px 1px Cornsilk;
+}
+.cheeselogo	{
+	height:90px;
+	width:105px;
+	margin-left:10px;
+}
+.current	{
+	color: red;
+}
+.bgImage	{
+	width:100%;
+	height:700px;
+}
+.TitleText1{
+	position: absolute;
+	top:20%;
+	left:23%;
+	font-size:60px;
+	color:gold;
+	text-shadow: 2px 2px 8px black;
+}
+.TitleText2	{
+	position: absolute;
+	top:30%;
+	left:34%;
+	font-size:40px;
+	color:gold;
+	text-shadow: 2px 2px 8px black;
+}
+.TitleText3	{
+	position: absolute;
+	top:60%;
+	left:26%;
+	font-size:80px;
+	color:FireBrick;
+	text-shadow: 2px 2px 8px darkorange;
+}
+.TitleText4	{
+	position: absolute;
+	top:90%;
+	left:24%;
+	font-size:60px;
+	color:orangered;
+	text-shadow: 2px 2px 8px red
+}
+.TitleText5	{
+	position: absolute;
+	top:90%;
+	right:24%;
+	font-size:60px;
+	color:orangered;
+	text-shadow: 2px 2px 8px red;
+}
+.Foodbox	{
+	margin-right: 70px;
+}
+.Boxes	{
+	width:400px;
+	height:400px;
+	border:3px solid black;
+	float: right;
+	margin-right: 200px;
+}
